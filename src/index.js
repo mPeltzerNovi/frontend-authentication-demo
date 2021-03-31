@@ -5,6 +5,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//Hier is waar je alles om <App /> wrapt
+
 ReactDOM.render(
   <React.StrictMode>
     <Router>
